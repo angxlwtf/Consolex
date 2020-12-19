@@ -12,6 +12,6 @@
     <br />
     <a href="https://github.com/angxlwtf/Consolex/releases/tag/0.1"><strong>Download »</strong></a>
       <br />
-  <a href="https://github.com/othneildrew/Best-README-Template"><strong>Source Code »</strong></a>
+  <a href="https://github.com/angxlwtf/Consolex/tree/main/src"><strong>Source Code »</strong></a>
   </p>
 </p>
