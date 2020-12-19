@@ -1,0 +1,10 @@
+C:\Users\angel\source\repos\Consolex\Consolex.Testing\bin\Debug\Consolex.dll
+C:\Users\angel\source\repos\Consolex\Consolex.Testing\bin\Debug\Consolex.pdb
+C:\Users\angel\source\repos\Consolex\Consolex\obj\Debug\Consolex.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\Consolex\Consolex\obj\Debug\Consolex.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Consolex\Consolex\obj\Debug\Consolex.dll
+C:\Users\angel\source\repos\Consolex\Consolex\obj\Debug\Consolex.pdb
+C:\Users\angel\source\repos\Consolex\Consolex\obj\Debug\Consolex.csproj.CopyComplete
+C:\Users\angel\source\repos\Consolex\Consolex\bin\Debug\Consolex.dll
+C:\Users\angel\source\repos\Consolex\Consolex\bin\Debug\Consolex.pdb
+C:\Users\angel\source\repos\Consolex\Consolex\bin\Debug\System.Drawing.Common.dll
