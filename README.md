@@ -10,7 +10,7 @@
   <p align="center">
     Change Console fonts, Custom colors, and much much more.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Download »</strong></a>
+    <a href="https://github.com/angxlwtf/Consolex/releases/tag/0.1"><strong>Download »</strong></a>
       <br />
   <a href="https://github.com/othneildrew/Best-README-Template"><strong>Source Code »</strong></a>
   </p>
