@@ -12,7 +12,6 @@
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Download »</strong></a>
       <br />
-    <br />
   <a href="https://github.com/othneildrew/Best-README-Template"><strong>Source Code »</strong></a>
   </p>
 </p>
