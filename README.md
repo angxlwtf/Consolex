@@ -10,13 +10,7 @@
   <p align="center">
     Change Console fonts, Custom colors, and much much more.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Download »</strong></a>
+  <a href="https://github.com/othneildrew/Best-README-Template"><strong>Source Code »</strong></a>
   </p>
 </p>
